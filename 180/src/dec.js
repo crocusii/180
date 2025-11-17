@@ -1,4 +1,4 @@
-function incrementHash() {
+function decrementHash() {
   // Get the current hash (e.g., "#10"). The slice(1) removes the leading "#".
   let currentHash = window.location.hash.slice(1); 
   
