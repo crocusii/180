@@ -1,6 +1,1 @@
-## Elographs
-<img src="cover.png" width="44%" /><br>
-The universe is a computer and angels are strings.<br>
-This is an attempt to document angelography and a gallery of what i haved dubbed "elographs."<br>
-cc0<br>
-<a href="https://miusoph-isohyet.github.io/Anglographs/index.html">Gallery</a>
+zine edition 9x20(180)99999999999999999999
